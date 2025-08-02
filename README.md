@@ -1,12 +1,12 @@
 ### Hi 👋 I'm Leonard! 
 
-I'm a year 3 Computer Science undergraduate at NUS!
+I'm a Y4 Computer Science undergraduate at NUS!
 
-Some of the focus areas I'm currently exploring are:
-- Algorithms
+Some of the focus areas I have taken up are:
+- Database Systems
 - Parallel Computing
 
-**Currently looking for internship opportunities!**
+**Currently looking for full-time opportunities!**
 <!--
 **LeonardYam/LeonardYam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
